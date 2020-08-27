@@ -1,0 +1,68 @@
+{
+  "albums": [
+    {
+      "id": "1",
+      "album": "Dark Side of the Moon",
+      "artist": "Pink Floyd"
+    },
+    {
+      "id": "2",
+      "album": "Insanity",
+      "artist": "Oingo Boingo"
+    },
+    {
+      "id": "3",
+      "album": "Surfing with the Alien",
+      "artist": "Joe Satriani"
+    },
+    {
+      "id": "4",
+      "album": "We Can't Dance",
+      "artist": "Genesis"
+    },
+    {
+      "id": "5",
+      "album": "52nd Street",
+      "artist": "Billy Joel"
+    }
+  ],
+  "details": [
+    {
+      "id": "1",
+      "album": "Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "tracks": [
+        {
+          "index": 1,
+          "name": "Speak to Me",
+          "time": 73,
+          "plays": 3
+        },
+        {
+          "index": 2,
+          "name": "Breathe",
+          "time": 163,
+          "plays": 4
+        },
+        {
+          "index": 3,
+          "name": "On the Run",
+          "time": 216,
+          "plays": 1
+        },
+        {
+          "index": 4,
+          "name": "Time",
+          "time": 413,
+          "plays": 5
+        },
+        {
+          "index": 5,
+          "name": "Money",
+          "time": 383,
+          "plays": 9
+        }
+      ]
+    }
+  ]
+}
