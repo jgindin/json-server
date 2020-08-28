@@ -84,6 +84,29 @@
           "plays": 8
         }
       ]
+    },
+    {
+      "id": "3",
+      "tracks": [
+        {
+          "index": 1,
+          "name": "Surfing with the Alien",
+          "time": 265,
+          "plays": 33
+        },
+        {
+          "index": 2,
+          "name": "Ice 9",
+          "time": 240,
+          "plays": 34
+        },
+        {
+          "index": 3,
+          "name": "Crushing Day",
+          "time": 319,
+          "plays": 23
+        }
+      ]
     }
   ]
 }
