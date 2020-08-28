@@ -26,11 +26,9 @@
       "artist": "Billy Joel"
     }
   ],
-  "details": [
+  "tracks": [
     {
       "id": "1",
-      "album": "Dark Side of the Moon",
-      "artist": "Pink Floyd",
       "tracks": [
         {
           "index": 1,
@@ -61,6 +59,29 @@
           "name": "Money",
           "time": 383,
           "plays": 9
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "tracks": [
+        {
+          "index": 1,
+          "name": "Insantiy",
+          "time": 463,
+          "plays": 12
+        },
+        {
+          "index": 2,
+          "name": "Hey!",
+          "time": 478,
+          "plays": 13
+        },
+        {
+          "index": 3,
+          "name": "Mary",
+          "time": 388,
+          "plays": 8
         }
       ]
     }
