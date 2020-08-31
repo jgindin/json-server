@@ -1,4 +1,10 @@
 {
+  "user": {
+    "name": "Bob Bobber",
+    "isAdmin": false,
+    "email": "bob@thebobber.com",
+    "avatar": "http://doppelme.com/avatar.png?canvas_width=200&style=1101&g=&s=&fa=&fac=8b4513&ff=&ffc=&h=15&hc=552200&ha=&hac=&t=45&tc=&b=95&bc=&e=126&ec=&i=&ic=&f=&fc=&back=0"
+  },
   "albums": [
     {
       "id": "1",
