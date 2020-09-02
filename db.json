@@ -9,27 +9,32 @@
     {
       "id": "1",
       "album": "Dark Side of the Moon",
-      "artist": "Pink Floyd"
+      "artist": "Pink Floyd",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png"
     },
     {
       "id": "2",
       "album": "Insanity",
-      "artist": "Oingo Boingo"
+      "artist": "Oingo Boingo",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e6/Boingo_Cover_Art.jpg"
     },
     {
       "id": "3",
       "album": "Surfing with the Alien",
-      "artist": "Joe Satriani"
+      "artist": "Joe Satriani",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/0f/Joe_Satriani_Surfing_With_the_Alien.jpg"
     },
     {
       "id": "4",
       "album": "We Can't Dance",
-      "artist": "Genesis"
+      "artist": "Genesis",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/03/Genesis_-_We_Can%27t_Dance.jpg"
     },
     {
       "id": "5",
       "album": "52nd Street",
-      "artist": "Billy Joel"
+      "artist": "Billy Joel",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/9/94/Billy_Joel_52nd_Street_album_cover.JPG"
     }
   ],
   "tracks": [
